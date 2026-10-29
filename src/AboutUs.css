@@ -1,0 +1,16 @@
+.about-us-container {
+  max-width: 560px;
+  color: #fff;
+  text-align: left;
+}
+
+.about-us-description {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin-top: 0;
+}
+
+.about-us-content {
+  font-size: 1rem;
+  line-height: 1.6;
+}
